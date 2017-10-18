@@ -1,0 +1,6 @@
+C:\Users\pro-10\source\repos\lab1\zadani4\obj\Debug\zadani4.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\source\repos\lab1\zadani4\bin\Debug\zadani4.exe.config
+C:\Users\pro-10\source\repos\lab1\zadani4\bin\Debug\zadani4.exe
+C:\Users\pro-10\source\repos\lab1\zadani4\bin\Debug\zadani4.pdb
+C:\Users\pro-10\source\repos\lab1\zadani4\obj\Debug\zadani4.exe
+C:\Users\pro-10\source\repos\lab1\zadani4\obj\Debug\zadani4.pdb

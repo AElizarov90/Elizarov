@@ -1,0 +1,6 @@
+C:\Users\pro-10\source\repos\lab1\Zadani3\obj\Debug\Zadani3.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\source\repos\lab1\Zadani3\bin\Debug\Zadani3.exe.config
+C:\Users\pro-10\source\repos\lab1\Zadani3\bin\Debug\Zadani3.exe
+C:\Users\pro-10\source\repos\lab1\Zadani3\bin\Debug\Zadani3.pdb
+C:\Users\pro-10\source\repos\lab1\Zadani3\obj\Debug\Zadani3.exe
+C:\Users\pro-10\source\repos\lab1\Zadani3\obj\Debug\Zadani3.pdb
