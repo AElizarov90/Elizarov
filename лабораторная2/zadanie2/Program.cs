@@ -10,14 +10,15 @@ namespace zadanie2
     {
         static void Main(string[] args)
         {
-            String a;
-            a = Console.ReadLine();
-            int A;
-            A = int.Parse(a);
-            int result;
-            result = 6 * A * A;
-            Console.Write(result);
-
+            int edge;
+            edge = Convert.ToInt16(Console.ReadLine());
+            int area;
+            if (edge > 0)
+            {
+                area = 6 * edge * edge;
+                Console.WriteLine(area);
+            }
+            else Console.WriteLine("Значение edge должно быть положительным");
 
         }
     }

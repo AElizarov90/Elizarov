@@ -1,0 +1,7 @@
+C:\Users\Andrei\Desktop\Elizarov\lab1\zadani4\bin\Debug\zadani4.exe.config
+C:\Users\Andrei\Desktop\Elizarov\lab1\zadani4\bin\Debug\zadani4.exe
+C:\Users\Andrei\Desktop\Elizarov\lab1\zadani4\bin\Debug\zadani4.pdb
+C:\Users\Andrei\Desktop\Elizarov\lab1\zadani4\obj\Debug\zadanie4.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Elizarov\lab1\zadani4\obj\Debug\zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\lab1\zadani4\obj\Debug\zadani4.exe
+C:\Users\Andrei\Desktop\Elizarov\lab1\zadani4\obj\Debug\zadani4.pdb

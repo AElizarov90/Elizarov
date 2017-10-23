@@ -4,3 +4,10 @@ C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie1\bin\Debug\za
 C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
 C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie1\obj\Debug\zadanie1.exe
 C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie1\obj\Debug\zadanie1.pdb
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie1\bin\Debug\zadanie1.exe.config
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie1\bin\Debug\zadanie1.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie1\bin\Debug\zadanie1.pdb
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie1\obj\Debug\zadanie1.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie1\obj\Debug\zadanie1.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie1\obj\Debug\zadanie1.pdb

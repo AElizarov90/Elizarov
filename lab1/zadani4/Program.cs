@@ -13,7 +13,7 @@ namespace zadani4
             String a;
             a = Console.ReadLine();
             Console.Write("Програмированние это ");
-            Console.Write(a);
+            Console.Write(a(!));
         }
     }
 }

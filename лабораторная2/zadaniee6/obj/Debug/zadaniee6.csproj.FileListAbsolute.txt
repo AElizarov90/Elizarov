@@ -1,0 +1,7 @@
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadaniee6\obj\Debug\zadaniee6.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadaniee6\obj\Debug\zadaniee6.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadaniee6\bin\Debug\zadaniee6.exe.config
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadaniee6\bin\Debug\zadaniee6.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadaniee6\bin\Debug\zadaniee6.pdb
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadaniee6\obj\Debug\zadaniee6.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadaniee6\obj\Debug\zadaniee6.pdb
