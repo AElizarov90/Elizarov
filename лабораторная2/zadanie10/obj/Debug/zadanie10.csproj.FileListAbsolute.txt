@@ -1,0 +1,7 @@
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie10\bin\Debug\zadanie10.exe.config
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie10\bin\Debug\zadanie10.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie10\bin\Debug\zadanie10.pdb
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie10\obj\Debug\zadanie10.csprojResolveAssemblyReference.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie10\obj\Debug\zadanie10.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie10\obj\Debug\zadanie10.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie10\obj\Debug\zadanie10.pdb
