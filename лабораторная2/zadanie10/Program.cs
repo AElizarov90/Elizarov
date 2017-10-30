@@ -10,11 +10,16 @@ namespace zadanie10
     {
         static void Main(string[] args)
         {
+            
             double xInGrad;
             xInGrad = Convert.ToDouble(Console.ReadLine());
-            double result;
-            result = Math.Sin(xInGrad);
-            Console.WriteLine("{0:F4}", result);
+            double xInRad;
+
+            xInRad = xInGrad * Math.PI / 180;
+            double a;
+            a = Math.Sin(xInRad);
+            Console.WriteLine("{0:F4}", a);
         }
+
     }
 }

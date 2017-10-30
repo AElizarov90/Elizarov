@@ -1,0 +1,6 @@
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie12\bin\Debug\zadanie12.exe.config
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie12\bin\Debug\zadanie12.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie12\bin\Debug\zadanie12.pdb
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie12\obj\Debug\zadanie12.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie12\obj\Debug\zadanie12.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie12\obj\Debug\zadanie12.pdb

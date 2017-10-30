@@ -1,0 +1,7 @@
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\proverka1\obj\Debug\proverka1.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\proverka1\obj\Debug\proverka1.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\proverka1\bin\Debug\proverka1.exe.config
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\proverka1\bin\Debug\proverka1.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\proverka1\bin\Debug\proverka1.pdb
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\proverka1\obj\Debug\proverka1.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\proverka1\obj\Debug\proverka1.pdb
