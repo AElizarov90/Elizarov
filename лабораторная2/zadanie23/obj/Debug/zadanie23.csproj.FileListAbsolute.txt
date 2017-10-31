@@ -1,0 +1,6 @@
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie23\bin\Debug\zadanie23.exe.config
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie23\bin\Debug\zadanie23.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie23\bin\Debug\zadanie23.pdb
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie23\obj\Debug\zadanie23.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie23\obj\Debug\zadanie23.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie23\obj\Debug\zadanie23.pdb

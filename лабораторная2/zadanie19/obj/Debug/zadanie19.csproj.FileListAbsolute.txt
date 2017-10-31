@@ -1,0 +1,6 @@
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie19\obj\Debug\zadanie19.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie19\bin\Debug\zadanie19.exe.config
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie19\bin\Debug\zadanie19.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie19\bin\Debug\zadanie19.pdb
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie19\obj\Debug\zadanie19.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie19\obj\Debug\zadanie19.pdb

@@ -1,0 +1,7 @@
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie20\obj\Debug\zadanie20.csprojResolveAssemblyReference.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie20\obj\Debug\zadanie20.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie20\bin\Debug\zadanie20.exe.config
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie20\bin\Debug\zadanie20.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie20\bin\Debug\zadanie20.pdb
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie20\obj\Debug\zadanie20.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie20\obj\Debug\zadanie20.pdb

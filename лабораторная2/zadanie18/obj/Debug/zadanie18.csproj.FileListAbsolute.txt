@@ -1,0 +1,7 @@
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie18\bin\Debug\zadanie18.exe.config
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie18\bin\Debug\zadanie18.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie18\bin\Debug\zadanie18.pdb
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie18\obj\Debug\zadanie18.csprojResolveAssemblyReference.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie18\obj\Debug\zadanie18.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie18\obj\Debug\zadanie18.exe
+C:\Users\pro-10\Desktop\Elizarov\лабораторная2\zadanie18\obj\Debug\zadanie18.pdb
