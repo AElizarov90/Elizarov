@@ -1,0 +1,6 @@
+C:\Users\pro-10\source\repos\lab3\zadanie3\obj\Debug\zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\source\repos\lab3\zadanie3\bin\Debug\zadanie3.exe.config
+C:\Users\pro-10\source\repos\lab3\zadanie3\bin\Debug\zadanie3.exe
+C:\Users\pro-10\source\repos\lab3\zadanie3\bin\Debug\zadanie3.pdb
+C:\Users\pro-10\source\repos\lab3\zadanie3\obj\Debug\zadanie3.exe
+C:\Users\pro-10\source\repos\lab3\zadanie3\obj\Debug\zadanie3.pdb
