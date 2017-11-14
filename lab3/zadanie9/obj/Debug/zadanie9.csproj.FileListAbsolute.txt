@@ -1,0 +1,7 @@
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie9\bin\Debug\zadanie9.exe.config
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie9\bin\Debug\zadanie9.exe
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie9\bin\Debug\zadanie9.pdb
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie9\obj\Debug\zadanie9.csprojResolveAssemblyReference.cache
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie9\obj\Debug\zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie9\obj\Debug\zadanie9.exe
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie9\obj\Debug\zadanie9.pdb
