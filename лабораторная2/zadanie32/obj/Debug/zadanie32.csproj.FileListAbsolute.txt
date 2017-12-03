@@ -1,0 +1,6 @@
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie32\bin\Debug\zadanie32.exe.config
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie32\bin\Debug\zadanie32.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie32\bin\Debug\zadanie32.pdb
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie32\obj\Debug\zadanie32.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie32\obj\Debug\zadanie32.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie32\obj\Debug\zadanie32.pdb

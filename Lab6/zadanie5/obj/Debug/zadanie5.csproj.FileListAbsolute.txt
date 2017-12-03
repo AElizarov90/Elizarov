@@ -1,0 +1,6 @@
+C:\Users\pro-10\Desktop\Elizarov\lab6\zadanie1\zadanie5\obj\Debug\zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\lab6\zadanie1\zadanie5\bin\Debug\zadanie5.exe.config
+C:\Users\pro-10\Desktop\Elizarov\lab6\zadanie1\zadanie5\bin\Debug\zadanie5.exe
+C:\Users\pro-10\Desktop\Elizarov\lab6\zadanie1\zadanie5\bin\Debug\zadanie5.pdb
+C:\Users\pro-10\Desktop\Elizarov\lab6\zadanie1\zadanie5\obj\Debug\zadanie5.exe
+C:\Users\pro-10\Desktop\Elizarov\lab6\zadanie1\zadanie5\obj\Debug\zadanie5.pdb

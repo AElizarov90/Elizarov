@@ -1,0 +1,12 @@
+C:\Users\pro-10\source\repos\lab3\zadanie6\bin\Debug\zadanie6.exe.config
+C:\Users\pro-10\source\repos\lab3\zadanie6\bin\Debug\zadanie6.exe
+C:\Users\pro-10\source\repos\lab3\zadanie6\bin\Debug\zadanie6.pdb
+C:\Users\pro-10\source\repos\lab3\zadanie6\obj\Debug\zadanie6.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\source\repos\lab3\zadanie6\obj\Debug\zadanie6.exe
+C:\Users\pro-10\source\repos\lab3\zadanie6\obj\Debug\zadanie6.pdb
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie6\bin\Debug\zadanie6.exe.config
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie6\bin\Debug\zadanie6.exe
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie6\bin\Debug\zadanie6.pdb
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie6\obj\Debug\zadanie6.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie6\obj\Debug\zadanie6.exe
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie6\obj\Debug\zadanie6.pdb

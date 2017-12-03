@@ -1,0 +1,13 @@
+C:\Users\pro-10\source\repos\lab3\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\source\repos\lab3\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\pro-10\source\repos\lab3\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\pro-10\source\repos\lab3\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\pro-10\source\repos\lab3\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\pro-10\source\repos\lab3\zadanie2\obj\Debug\zadanie2.pdb
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie2\obj\Debug\zadanie2.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie2\obj\Debug\zadanie2.pdb

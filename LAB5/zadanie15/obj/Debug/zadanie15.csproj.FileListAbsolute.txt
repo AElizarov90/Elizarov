@@ -1,0 +1,14 @@
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie15\bin\Debug\zadanie15.exe.config
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie15\bin\Debug\zadanie15.exe
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie15\bin\Debug\zadanie15.pdb
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie15\obj\Debug\zadanie15.csprojResolveAssemblyReference.cache
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie15\obj\Debug\zadanie15.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie15\obj\Debug\zadanie15.exe
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie15\obj\Debug\zadanie15.pdb
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie15\bin\Debug\zadanie15.exe.config
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie15\bin\Debug\zadanie15.exe
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie15\bin\Debug\zadanie15.pdb
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie15\obj\Debug\zadanie15.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie15\obj\Debug\zadanie15.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie15\obj\Debug\zadanie15.exe
+C:\Users\Andrei\Desktop\Elizarov\LAB5\zadanie15\obj\Debug\zadanie15.pdb

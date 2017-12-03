@@ -1,0 +1,7 @@
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie28\bin\Debug\zadanie28.exe.config
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie28\bin\Debug\zadanie28.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie28\bin\Debug\zadanie28.pdb
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie28\obj\Debug\zadanie28.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie28\obj\Debug\zadanie28.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie28\obj\Debug\zadanie28.exe
+C:\Users\Andrei\Desktop\Elizarov\лабораторная2\zadanie28\obj\Debug\zadanie28.pdb

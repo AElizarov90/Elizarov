@@ -1,0 +1,7 @@
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie12\bin\Debug\zadanie12.exe.config
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie12\bin\Debug\zadanie12.exe
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie12\bin\Debug\zadanie12.pdb
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie12\obj\Debug\zadanie12.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie12\obj\Debug\zadanie12.exe
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie12\obj\Debug\zadanie12.pdb
+C:\Users\pro-10\Desktop\Elizarov\lab3\zadanie12\obj\Debug\zadanie12.csprojResolveAssemblyReference.cache
