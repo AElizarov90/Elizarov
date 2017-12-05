@@ -10,7 +10,7 @@ namespace zadanie6
     {
         static void Main(string[] args)
         {
-            int A;
+           int A;
             A = Convert.ToInt16(Console.ReadLine());
             int B;
             B = Convert.ToInt16(Console.ReadLine());

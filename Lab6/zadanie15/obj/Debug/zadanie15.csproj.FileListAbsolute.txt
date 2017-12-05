@@ -1,0 +1,7 @@
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie15\bin\Debug\zadanie15.exe.config
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie15\bin\Debug\zadanie15.exe
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie15\bin\Debug\zadanie15.pdb
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie15\obj\Debug\zadanie15.csprojResolveAssemblyReference.cache
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie15\obj\Debug\zadanie15.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie15\obj\Debug\zadanie15.exe
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie15\obj\Debug\zadanie15.pdb
