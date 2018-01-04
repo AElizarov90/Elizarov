@@ -1,0 +1,7 @@
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie32\bin\Debug\zadanie32.exe.config
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie32\bin\Debug\zadanie32.exe
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie32\bin\Debug\zadanie32.pdb
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie32\obj\Debug\zadanie32.csprojResolveAssemblyReference.cache
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie32\obj\Debug\zadanie32.csproj.CoreCompileInputs.cache
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie32\obj\Debug\zadanie32.exe
+C:\Users\pro-10\Desktop\Elizarov\Lab6\zadanie32\obj\Debug\zadanie32.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andrei\Desktop\Elizarov\lab6\zadanie34\bin\Debug\zadanie34.exe.config
+C:\Users\Andrei\Desktop\Elizarov\lab6\zadanie34\bin\Debug\zadanie34.exe
+C:\Users\Andrei\Desktop\Elizarov\lab6\zadanie34\bin\Debug\zadanie34.pdb
+C:\Users\Andrei\Desktop\Elizarov\lab6\zadanie34\obj\Debug\zadanie34.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Elizarov\lab6\zadanie34\obj\Debug\zadanie34.exe
+C:\Users\Andrei\Desktop\Elizarov\lab6\zadanie34\obj\Debug\zadanie34.pdb
